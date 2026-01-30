@@ -43,7 +43,7 @@ Fake News Detection Datasets (Kaggle):
 
 ---
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This model classifies based on linguistic patterns, not factual verification. Predictions depend on patterns learned from the dataset.
 
